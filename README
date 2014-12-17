@@ -1,4 +1,4 @@
 # Readme
-ss-davi is a intrusion detection system made in C Language. It was made for academic and learning purposes.
+ss-davi is a intrusion detection system. It was made for academic and learning purposes.
 
 It is modular, you can add new algorithms/AI to detect a new kind of attack.
